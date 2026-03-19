@@ -1,13 +1,17 @@
 {
-  "updated": "2026-03-19T05:56:30.468131Z",
+  "updated": "2026-03-19T06:44:50.825789Z",
   "feeds": [
     {
+      "source": "detik.com",
+      "title": "BRI Salurkan 279 Ribu Paket Sembako ke Berbagai Daerah"
+    },
+    {
       "source": "antaranews.com",
-      "title": "Warga Muslim di Hila Maluku Tengah Lebaran hari ini"
+      "title": "BGN: MBG pacu pergerakan ekonomi daerah lewat dana triliunan ke SPPG"
     },
     {
       "source": "kompas.com",
-      "title": "Arus Mudik 2026: Tol Cipali Padat Merayap, Rest Area Overload"
+      "title": "Tak Bisa Anyam Janur, Warga Berburu Kulit Ketupat di Pasar Kramat Jati"
     },
     {
       "source": "tempo.co",
@@ -15,19 +19,19 @@
     },
     {
       "source": "republika.co.id",
-      "title": "KAI Daop 1 Jakarta Catat 480 Ribu Tiket Mudik Terjual, Tanggal Favorit Hampir Habis"
+      "title": "53 Ruas Jalan Sleman Telah Ditangani, Siap Digunakan untuk Jalur Mudik"
     },
     {
       "source": "viva.co",
-      "title": "Saat Hujan Tekanan Angin Ban harus Dikurangi? Ini Kata Bridgestone"
+      "title": "Pesan Raffi Ahmad Buat Pemudik 2026: Berikan yang Terbaik untuk Keluarga"
     },
     {
       "source": "jpnn.com",
-      "title": "Bek Persib Bandung Ini Siap Bawa Timnas Irak Tembus Piala Dunia 2026"
+      "title": "Jaga Kesehatan Pemudik, BBKK Surabaya Aktifkan Posko di Jalur Udara dan Laut"
     },
     {
       "source": "times.co.id",
-      "title": "Jemaah Al Mudhlor Tulungagung Salat Idul Fitri Lebih Awal"
+      "title": "Moment Gubernur Khofifah Ajak Cucu Kunjungi Pasar Bandeng di Gresik"
     },
     {
       "source": "BBC Indonesia",
@@ -35,7 +39,7 @@
     },
     {
       "source": "antaranews Jogja",
-      "title": "Kementerian HAM tegaskan penanganan kasus Andrie Yunus transparan"
+      "title": "Perkembangan kriteria MABIMS dalam penentuan awal bulan Hijriah"
     }
   ]
 }
