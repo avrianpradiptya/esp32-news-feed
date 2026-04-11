@@ -1,13 +1,17 @@
 {
-  "updated": "2026-04-11T22:25:36.190732Z",
+  "updated": "2026-04-11T23:23:49.136172Z",
   "feeds": [
     {
+      "source": "detik.com",
+      "title": "Gempa Darat M 4,3 Guncang Sumba Timur"
+    },
+    {
       "source": "antaranews.com",
-      "title": "Liverpool kembali ke jalur kemenangan seusai tekuk Fulham 2-0"
+      "title": "Ditjen Imigrasi siapkan tim khusus guna bantu atlet asing di Indonesia"
     },
     {
       "source": "kompas.com",
-      "title": "AC Milan Digulung Udinese 0-3, Allegri Bicara soal Krisis dan Formasi"
+      "title": "Selain Peras OPD, Bupati Tulungagung Diduga Kondisikan Pengadaan di Pemkab"
     },
     {
       "source": "tempo.co",
@@ -15,15 +19,15 @@
     },
     {
       "source": "republika.co.id",
-      "title": "Maarten Paes Bersinar, Ajax Kalahkan Heracles 3-0"
+      "title": "IRGC Ingatkan Kapal Militer tak Lewati Selat Hormuz, Ini Dampaknya Jika Melanggar"
     },
     {
       "source": "viva.co",
-      "title": "Ratusan Dapur MBG di Jawa hingga Wilayah Timur Dihentikan Sementara, Ini Alasannya"
+      "title": "Bupati Tulungagung dan Ajudannya Ditetapkan jadi Tersangka Pemerasan"
     },
     {
       "source": "jpnn.com",
-      "title": "6 Manfaat Kacang Almond, Bantu Tingkatkan Gairah Pasangan"
+      "title": "Buah Manis Inovasi Digital di Wuling Darion"
     },
     {
       "source": "times.co.id",
@@ -35,7 +39,7 @@
     },
     {
       "source": "antaranews Jogja",
-      "title": "Borussia Dortmund dikalahkan Bayer Leverkusen 0-1"
+      "title": "Pelatih Dewa United: Seluruh pemain bugar hadapi Malut United"
     }
   ]
 }
