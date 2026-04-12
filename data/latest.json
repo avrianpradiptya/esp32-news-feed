@@ -1,13 +1,17 @@
 {
-  "updated": "2026-04-12T10:33:37.180805Z",
+  "updated": "2026-04-12T11:26:17.346187Z",
   "feeds": [
+    {
+      "source": "detik.com",
+      "title": "Akumulasi Transaksi Emas Ilegal PT Simba Jaya Rp 25,9 T, Aset TPPU Ditelusuri"
+    },
     {
       "source": "antaranews.com",
       "title": "Arne Slot: Rio Ngumoha siap diturunkan sebagai starter lawan PSG"
     },
     {
       "source": "kompas.com",
-      "title": "Cerita Pria Turun 25 Kg Meski Kerja di Laut, Berawal dari Rasa Tidak Percaya Diri"
+      "title": "Hector Souto Bidik Gelar Juara ASEAN Futsal Championship 2026"
     },
     {
       "source": "tempo.co",
@@ -15,15 +19,15 @@
     },
     {
       "source": "republika.co.id",
-      "title": "Uang Kembalian yang (Sengaja) tidak Dikembalikan"
+      "title": "Iran Batasi Kapal di Selat Hormuz Hanya 12 per Hari, Biaya Tembus Rp 34 Miliar per Tanker"
     },
     {
       "source": "viva.co",
-      "title": "Pertamina Patra Niaga Genjot Inovasi FAME dan Manfaat Eceng Gondok di Surabaya, Ini Hasilnya"
+      "title": "Kadin Indonesia Beberkan Potensi Ekonomi Papua, Tak Hanya pada Emas dan Tembaga"
     },
     {
       "source": "jpnn.com",
-      "title": "Paul Munster tak Terima Bhayangkara FC Takluk dari Persijap, Tren Positif Putus"
+      "title": "Salurkan Bantuan saat Paskah, AHY Pastikan Demokrat Hadir Beri Solusi Bagi Warga Prasejahtera"
     },
     {
       "source": "times.co.id",
@@ -35,7 +39,7 @@
     },
     {
       "source": "antaranews Jogja",
-      "title": "PM Jepang dorong amandemen konstitusi dilakukan segera"
+      "title": "Serangan AS-Israel rusak 140 situs budaya Iran"
     }
   ]
 }
