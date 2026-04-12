@@ -1,13 +1,17 @@
 {
-  "updated": "2026-04-12T16:31:26.044160Z",
+  "updated": "2026-04-12T17:28:34.009835Z",
   "feeds": [
     {
+      "source": "detik.com",
+      "title": "Ma'ruf Amin Soal Perundingan AS-Iran Gagal: Ada Kepentingan Terselubung"
+    },
+    {
       "source": "antaranews.com",
-      "title": "Rano Karno ingatkan warga Jakarta soal potensi DBD imbas El Nino"
+      "title": "Debut De Zerbi berakhir pahit, Tottenham kalah 0-1 lawan Sunderland"
     },
     {
       "source": "kompas.com",
-      "title": "Tiang Optik di Jakbar Roboh, Diduga akibat Keropos dan Kelebihan Beban"
+      "title": "Hasil Chelsea Vs Man City 0-3, Jeremy Doku Tutup Pesta Gol The Citizens"
     },
     {
       "source": "tempo.co",
@@ -15,19 +19,19 @@
     },
     {
       "source": "republika.co.id",
-      "title": "Serangan AS-Isrel ke Iran, Seratus Lebih Petugas Kesehatan Syahid"
+      "title": "SAR Gabungan Selamatkan Nelayan Kepri yang Hanyut ke Malaysia"
     },
     {
       "source": "viva.co",
-      "title": "Dilaporkan Hilang, Nelayan Maluku Tengah Terombang-ambing hingga ke Raja Ampat"
+      "title": "Perundingan AS-Iran Gagal, Trump Perintahkan Blokade Kapal di Selat Hormuz"
     },
     {
       "source": "jpnn.com",
-      "title": "Dies Natalis ke-72 GMNI: Tetap Jaga Ideologi Bangsa"
+      "title": "Cerita Prabowo 34 Tahun Mengabdikan Diri Kembangkan Pencak Silat"
     },
     {
       "source": "times.co.id",
-      "title": "HUT ke&30 GKJW Tunjungsekar Malang, Pendeta Retnosari: Iman Lampaui Penglihatan"
+      "title": "Morotai Fun Run 10K Membawa Nama Pulau Terluar Indonesia ke Tingkat Internasional"
     },
     {
       "source": "BBC Indonesia",
@@ -35,7 +39,7 @@
     },
     {
       "source": "antaranews Jogja",
-      "title": "Putin siap sambut Prabowo di Moskow membahas kemitraan strategis"
+      "title": "Dewa United menang atas Malut United 2-1"
     }
   ]
 }
