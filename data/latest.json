@@ -1,6 +1,10 @@
 {
-  "updated": "2026-06-06T21:55:39.679887Z",
+  "updated": "2026-06-06T22:54:57.326218Z",
   "feeds": [
+    {
+      "source": "detik.com",
+      "title": "Gegara Korsleting, Rumah 5 KK di Palmerah Jakbar Terbakar"
+    },
     {
       "source": "antaranews.com",
       "title": "Veda Ega start posisi kesembilan di Moto3 Hungaria 2026"
@@ -11,15 +15,15 @@
     },
     {
       "source": "republika.co.id",
-      "title": "Penahanan Dadan Hindayana dan Silmy Karim Warnai Berita Hukum Sepekan"
+      "title": "Kementan: Cetak Sawah di Kalimantan 2026 Terealisasi 100 Persen"
     },
     {
       "source": "viva.co",
-      "title": "Heboh! Dugaan Buzzer Bayaran di Balik Video Permintaan Maaf Sarwendah"
+      "title": "Rumitnya Konflik Ruben Onsu dan Sarwendah, Betrand Peto Mendadak Singgung Giorgio Antonio, Bela Orang Tua?"
     },
     {
       "source": "jpnn.com",
-      "title": "Kalender Bali Minggu (7/6): Baik untuk Kerja Bakti & Membentuk Perkumpulan"
+      "title": "Kegemilangan Ersandrina Devega Bikin Timnas Voli Putri Indonesia Sukses Gebuk Iran"
     },
     {
       "source": "times.co.id",
@@ -31,7 +35,7 @@
     },
     {
       "source": "antaranews Jogja",
-      "title": "Sekda: DIY bisa jadi pusat pengembangan industri fesyen nasional"
+      "title": "PBB: 1,4 juta warga Lebanon butuh bantuan kemanusiaan mendesak"
     }
   ]
 }
