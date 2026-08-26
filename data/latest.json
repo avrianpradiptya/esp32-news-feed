@@ -1,9 +1,13 @@
 {
-  "updated": "2026-08-26T04:31:03.231480Z",
+  "updated": "2026-08-26T05:25:17.018842Z",
   "feeds": [
     {
+      "source": "detik.com",
+      "title": "Beasiswa Pemkab Sidoarjo Ringankan Biaya Pendidikan Ribuan Pelajar-Mahasiswa"
+    },
+    {
       "source": "antaranews.com",
-      "title": "Kepala Bapanas: Stok beras Indonesia 5,1 juta ton, aman hadapi El Nino"
+      "title": "Menhan Australia dorong langkah operasional Jakarta Treaty 2026"
     },
     {
       "source": "tempo.co",
@@ -11,11 +15,11 @@
     },
     {
       "source": "republika.co.id",
-      "title": "Rais Syuriyah Minta Muktamar ke-35 NU Kedepankan Persatuan"
+      "title": "Penundaan Transaksi dan Kepercayaan Sistem Keuangan, Ini Penjelasan Pakar"
     },
     {
       "source": "jpnn.com",
-      "title": "Angin Surga dari Timur Tengah Bikin Rupiah Menguat ke level Rp 17.695 per USD"
+      "title": "Harga Jersei Baru Persib Jutaan Rupiah, Laris Manis, Bobotoh Memang Wouw!"
     },
     {
       "source": "BBC Indonesia",
@@ -23,7 +27,7 @@
     },
     {
       "source": "antaranews Jogja",
-      "title": "Bareskrim ungkap peredaran permen mengandung THC"
+      "title": "Sekjen PBB: Reformasi Dewan Keamanan tak terhindarkan"
     }
   ]
 }
