@@ -1,9 +1,13 @@
 {
-  "updated": "2026-11-05T07:32:27.445713Z",
+  "updated": "2026-11-05T15:54:45.255342Z",
   "feeds": [
     {
+      "source": "detik.com",
+      "title": "Cak Imin Cerita Termasuk Jadi Korban Penyadapan oleh Listyo Sigit dkk"
+    },
+    {
       "source": "antaranews.com",
-      "title": "ASEAN-Korea targetkan pertukaran wisatawan tembus 20 juta"
+      "title": "Polri tetapkan SU tersangka baru kasus penyadapan ilegal"
     },
     {
       "source": "tempo.co",
@@ -11,19 +15,19 @@
     },
     {
       "source": "republika.co.id",
-      "title": "SIAL Food & Drinks Indonesia 2026 Resmi Dibuka, Hadirkan 500 Merek dari 16 Negara"
+      "title": "Klaim Jadi Korban Penyadapan Listyo Dkk, Cak Imin: Kurang Ajar Itu"
     },
     {
       "source": "viva.co",
-      "title": "Trump Tegaskan Akan Tetap Perang Lawan Iran Meski Partainya Kalah Pemilu Sela"
+      "title": "Silmy Karim Tegaskan Tak Kena OTT: Saya Datang Sendiri ke KPK"
     },
     {
       "source": "jpnn.com",
-      "title": "Cari ABK Hilang di Laut Jawa, Basarnas Kerahkan Kapal Cepat"
+      "title": "Aplikasi Identitas Kependudukan Digital Versi Terbaru Sebagai Solusi Lupa PIN dan OCR"
     },
     {
       "source": "times.co.id",
-      "title": "Capaian Cek Kesehatan Gratis di Pacitan Baru 42,5 Persen"
+      "title": "Tiga Warisan Dokumenter Indonesia Diakui UNESCO, Ada Naskah Bima dan Arsip HB Jassin"
     },
     {
       "source": "BBC Indonesia",
@@ -31,7 +35,7 @@
     },
     {
       "source": "antaranews Jogja",
-      "title": "Komisi III DPR: RUU Perampasan Aset pertegas hukuman mati koruptor"
+      "title": "UMY perkuat jejaring riset Internasional Pemeringkatan QS Asia"
     }
   ]
 }
