@@ -1,21 +1,25 @@
 {
-  "updated": "2026-11-06T21:52:52.967337Z",
+  "updated": "2026-11-07T01:25:59.684154Z",
   "feeds": [
     {
+      "source": "detik.com",
+      "title": "Dugaan Bagi-bagi Proyek Diusut KPK dari Adik Eks Kepala BNPB"
+    },
+    {
       "source": "antaranews.com",
-      "title": "Kemenhaj dukung Saudi berantas makelar pengadaan layanan haji ilegal"
+      "title": "Gunung Semeru luncurkan awan panas sejauh 5,5 km ke arah tenggara"
     },
     {
       "source": "republika.co.id",
-      "title": "Prakiraan Cuaca Jakarta Sabtu: Hujan Ringan Diprediksi Guyur Sebagian Wilayah Sore Hari"
+      "title": "Maybank Indonesia Perkuat Literasi Keuangan Jurnalis Lewat Fellowship"
     },
     {
       "source": "viva.co",
-      "title": "Anggaran Operasional MBG Dibatasi Rp3.000 Per Porsi, Gaji Pengawas Ikut Terdampak?"
+      "title": "Terpopuler: Innova Reborn untuk Travel, Koleksi Mobil Roy Suryo, dan Insentif Hybrid"
     },
     {
       "source": "jpnn.com",
-      "title": "Tergeser dari Puncak Klasemen, Persija Fokus Menang Lawan Persebaya"
+      "title": "Coocaa Perkenalkan M1 Pro, TV Flagship dengan Kecerahan 2.000 Nits"
     },
     {
       "source": "times.co.id",
@@ -27,7 +31,7 @@
     },
     {
       "source": "antaranews Jogja",
-      "title": "Ginting petik pelajaran berharga setelah terhenti di Korea Open"
+      "title": "Sevilla ditahan imbang tanpa gol lawan Alaves"
     }
   ]
 }
