@@ -1,9 +1,13 @@
 {
-  "updated": "2026-11-08T20:53:28.014431Z",
+  "updated": "2026-11-09T00:16:54.906942Z",
   "feeds": [
     {
+      "source": "detik.com",
+      "title": "Suara Senayan Dukung Kapolri Usut Tuntas Penyadapan ke Presiden"
+    },
+    {
       "source": "antaranews.com",
-      "title": "Napoli putus rentetan kemenangan Lazio"
+      "title": "Nasionalisme; Memartabatkan sastra, memartabatkan bangsa"
     },
     {
       "source": "tempo.co",
@@ -11,15 +15,15 @@
     },
     {
       "source": "republika.co.id",
-      "title": "AC Milan Naik ke Peringkat Empat Usai Tekuk Genoa 2-1"
+      "title": "Sikapi Isu Penyadapan Presiden, Surya Paloh: Kita Bergerak ke Belakang"
     },
     {
       "source": "viva.co",
-      "title": "Prabowo Terima 10 Mantan Kapolri di Hambalang, Bahas Dugaan Makar?"
+      "title": "HyperOS 4 vs HyperOS 3, Apakah Upgrade Nanti Benar-benar Membawa Perubahan Besar?"
     },
     {
       "source": "jpnn.com",
-      "title": "Bright Gas Cooking Competition 2026 Lahirkan Juara Baru"
+      "title": "Persib Bandung Gagal Bangkit Lawan Java United, Beckham Bongkar Masalah yang Dihadapi"
     },
     {
       "source": "times.co.id",
@@ -31,7 +35,7 @@
     },
     {
       "source": "antaranews Jogja",
-      "title": "Veda Ega Pratama finis keempat di Moto3 Qatar 2026"
+      "title": "Menteri PKP: Program gentengisasi bangkitkan UMKM genteng Majalengka"
     }
   ]
 }
