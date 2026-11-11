@@ -1,6 +1,10 @@
 {
-  "updated": "2026-11-11T17:45:15.482125Z",
+  "updated": "2026-11-11T23:50:00.576778Z",
   "feeds": [
+    {
+      "source": "detik.com",
+      "title": "PKS Respons Kabar Gibran Mundur dari Wapres: Belum Final, HMP Jalan Terus"
+    },
     {
       "source": "antaranews.com",
       "title": "Prabowo: Narasi \"Indonesia gelap\" jahat"
@@ -11,19 +15,19 @@
     },
     {
       "source": "republika.co.id",
-      "title": "Fadli Zon Ajak Generasi Muda Teladani 19 Pahlawan Nasional Baru"
+      "title": "Baru 2 Tahun, Perusahaan Drone Turki Ini Ekspor 75 Ribu Unit ke 30 Negara"
     },
     {
       "source": "viva.co",
-      "title": "Sebelum Jadi Wakil Presiden! Gibran Pernah Bisnis Kuliner, Bagaimana Nasib Usahanya Sekarang?"
+      "title": "Gibran Dikabarkan Mundur, Ini Fasilitas yang Bisa Diterima Setelah Tak Lagi Jadi Wapres"
     },
     {
       "source": "jpnn.com",
-      "title": "Dasco Sudah Ketemu Prabowo, Bahas Gibran?"
+      "title": "MotoGP 2026: Jorge Martin Bikin Keajaiban, Bos Aprilia Sampai Angkat Topi"
     },
     {
       "source": "times.co.id",
-      "title": "Unira Malang Dorong Riset Khaira Ummah untuk Bersaing di Hibah BIMA 2027"
+      "title": "James Gunn Tinggalkan Kursi Pimpinan DC Studios, Kembali Fokus Garap Film"
     },
     {
       "source": "BBC Indonesia",
@@ -31,7 +35,7 @@
     },
     {
       "source": "antaranews Jogja",
-      "title": "BKKBN DIY perkuat kualitas keluarga melalui tiga program unggulan"
+      "title": "DPR ungkap ada Rapat Paripurna Kamis pukul 14.00 WIB"
     }
   ]
 }
