@@ -1,9 +1,13 @@
 {
-  "updated": "2026-11-12T21:16:26.950333Z",
+  "updated": "2026-11-13T02:15:47.004937Z",
   "feeds": [
     {
+      "source": "detik.com",
+      "title": "MPR Rapat Tentukan Jadwal Sidang Paripurna Pemilihan Wapres Hari Ini"
+    },
+    {
       "source": "antaranews.com",
-      "title": "Jensen Huang mundur sebagai CEO NVIDIA imbas skandal mata-mata China"
+      "title": "Mendikdasmen: 100.000 sekolah direvitalisasi pada 2027"
     },
     {
       "source": "tempo.co",
@@ -11,19 +15,19 @@
     },
     {
       "source": "republika.co.id",
-      "title": "PLN Percepat Pemeliharaan PLTU Jeneponto 125 MW untuk Pulihkan Pasokan Listrik Sulsel"
+      "title": "Teknologi Pakan Fermentasi Buka Peluang Peternakan Sapi Perah Lebih Berkelanjutan"
     },
     {
       "source": "viva.co",
-      "title": "Siapa 2 Nama yang Akan Disodorkan Prabowo ke MPR untuk Gantikan Gibran? Nama-nama Ini Masuk Bursa Cawapres"
+      "title": "Cara Hanura Panaskan Mesin Politik di Papua Tengah"
     },
     {
       "source": "jpnn.com",
-      "title": "Pesan Haru Michael Carrick Setelah Dipecat MU"
+      "title": "Sempat Mengidap Tumor, Desy Ratnasari Trauma dengan Ruang Operasi"
     },
     {
       "source": "times.co.id",
-      "title": "Pemkot Mojokerto Alokasikan Rp3,8 Miliar untuk Lindungi 60 Ribu Pekerja Rentan"
+      "title": "Bupati Ipuk Minta Kadin Banyuwangi Jadi Motor Penggerak Mitra Strategis Pemerintah Daerah"
     },
     {
       "source": "BBC Indonesia",
@@ -31,7 +35,7 @@
     },
     {
       "source": "antaranews Jogja",
-      "title": "Komnas HAM minta Polri usut dugaan kekerasan saat aksi di Yogyakarta"
+      "title": "Cair dan akrab, Menteri Imipas sapa peserta seleksi Poltek asal Papua"
     }
   ]
 }
