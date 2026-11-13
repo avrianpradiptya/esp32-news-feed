@@ -1,9 +1,13 @@
 {
-  "updated": "2026-11-13T10:19:40.439141Z",
+  "updated": "2026-11-13T18:16:46.188119Z",
   "feeds": [
     {
+      "source": "detik.com",
+      "title": "Gunung Karangetang Sulut Erupsi, Muntahkan Lava Sejauh 400 Meter"
+    },
+    {
       "source": "antaranews.com",
-      "title": "DPD pastikan dukung siapapun calon Wapres pilihan Prabowo"
+      "title": "Manchester United tunjuk Pochettino sebagai pelatih baru"
     },
     {
       "source": "tempo.co",
@@ -11,19 +15,19 @@
     },
     {
       "source": "republika.co.id",
-      "title": "Haedar Ingatkan Kader Muhammadiyah: Jangan Cari Jabatan!"
+      "title": "Kimia Farma dan RSCM Perluas Layanan Sel Punca ke RSUD Tarakan"
     },
     {
       "source": "viva.co",
-      "title": "Perdagangan Digital Indonesia Berkembang, Konten dan Kreator Buka Peluang Baru bagi UMKM"
+      "title": "Samsung Galaxy A18 5G vs Infinix Hot 70 Pro 5G, Hp Mana yang Lebih Cocok untuk Gamer dengan Budget Terbatas?"
     },
     {
       "source": "jpnn.com",
-      "title": "Suahasil Akui Pasar Keuangan Tertekan Akibat Pernyataan MSCI"
+      "title": "Tersangka Kasus Ijazah Jokowi Meninggal, Keluarga Singgung Suarakan Kebenaran"
     },
     {
       "source": "times.co.id",
-      "title": "Enam Tahun Menunggu, Warga Cawas Segera Miliki Jembatan Dengkeng Baru"
+      "title": "Lama Menunggu, Para Petani Lega Bendungan Clangap, Banjarnegara Segera Dibangun Lagi"
     },
     {
       "source": "BBC Indonesia",
@@ -31,7 +35,7 @@
     },
     {
       "source": "antaranews Jogja",
-      "title": "Kepastian hukum atas tanah untuk masyarakat, harapan baru dari Program PTSL di Kalurahan Guwosari"
+      "title": "DPR ingatkan kesiapan Tol Yogyakarta-Bawen utamakan keselamatan"
     }
   ]
 }
