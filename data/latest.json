@@ -1,9 +1,13 @@
 {
-  "updated": "2026-11-17T22:01:00.006961Z",
+  "updated": "2026-11-18T03:21:16.254252Z",
   "feeds": [
     {
+      "source": "detik.com",
+      "title": "Unpas Bandung Pecat Dosen yang Diduga Lecehkan Belasan Mahasiswi"
+    },
+    {
       "source": "antaranews.com",
-      "title": "IRGC: Dua kapal tanker terbakar usai hantam ranjau di Hormuz"
+      "title": "Kematian migran di laut menuju Eropa naik 20 persen pada 2026"
     },
     {
       "source": "tempo.co",
@@ -11,19 +15,19 @@
     },
     {
       "source": "republika.co.id",
-      "title": "Polresta Banjarmasin Bongkar Jaringan TPPO Berkedok Prostitusi Daring Bertarif Rp5 Juta"
+      "title": "Afgan, Winky, dan Maxim Satukan Karakter Musik Berbeda Lewat 'AURA'"
     },
     {
       "source": "viva.co",
-      "title": "JJ Gabriel Umumkan Tinggalkan Old Trafford, MU Pertimbangkan Langkah Hukum"
+      "title": "Digitalisasi Layanan Keuangan Dorong Efisiensi dan Perluas Akses Masyarakat"
     },
     {
       "source": "jpnn.com",
-      "title": "3 Berita Artis Terheboh: Raffi Diminta Mundur, Anak Desta Pertanyakan Honor Sang Ayah"
+      "title": "Puing Pesawat Pan Am 1974 Ditemukan di Hutan Buleleng, Tertimbun Pasir Sungai"
     },
     {
       "source": "times.co.id",
-      "title": "Kemenag Bangun Sinergi Nasional untuk Pemberdayaan Pesantren"
+      "title": "Beyond Innovation: Jangan Kehilangan Kemampuan Menghargai"
     },
     {
       "source": "BBC Indonesia",
@@ -31,7 +35,7 @@
     },
     {
       "source": "antaranews Jogja",
-      "title": "KAI Daop 6 sayangkan ada pengguna jalan terobos perlintasan sebidang"
+      "title": "Liga Arab kecam serangan terbaru Iran ke Bahrain"
     }
   ]
 }
