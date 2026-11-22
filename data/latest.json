@@ -1,9 +1,13 @@
 {
-  "updated": "2026-11-21T21:18:39.737702Z",
+  "updated": "2026-11-22T01:46:24.929063Z",
   "feeds": [
     {
+      "source": "detik.com",
+      "title": "Megawati Pilih di Luar Pemerintah, PKS Ungkit Senasib di Era Jokowi 10 Tahun"
+    },
+    {
       "source": "antaranews.com",
-      "title": "City tertahan di Etihad, Fulham putus rentetan kekalahan"
+      "title": "Warga Gunung Pati Semarang kemas tradisi syukuran kelimpahan sumber air jadi promosi wisata"
     },
     {
       "source": "tempo.co",
@@ -11,19 +15,19 @@
     },
     {
       "source": "republika.co.id",
-      "title": "Gempa Dangkal M 4,2 Guncang Pesisir Selatan dan Padang Dini Hari"
+      "title": "Mencari Pengganti, Menemukan Pemimpin"
     },
     {
       "source": "viva.co",
-      "title": "Fakta-fakta Lengkap Erin Mantan Istri Andre Taulany Jadi Tersangka Kasus Dugaan Penganiayaan ART"
+      "title": "Usai Kebakaran, Pemprov DKI Siapkan Revitalisasi Tugu Kunstkring Paleis"
     },
     {
       "source": "jpnn.com",
-      "title": "Gegara Kritikan Lita Gading, Unggahan Mulan Jameela soal Lulus S1 Kembali Disorot"
+      "title": "Berpesan ke Anak Muda, Hasto: Jangan Kejar Kedudukan Memanfaatkan Jabatan Orang Tua"
     },
     {
       "source": "times.co.id",
-      "title": "6 Satwa Endemik Indonesa Sudah Punah, Badak Jawa Menyusul?"
+      "title": "Jateng Siapkan 426 Event pada 2027, Bidik Dampak Ekonomi Pariwisata"
     },
     {
       "source": "BBC Indonesia",
@@ -31,7 +35,7 @@
     },
     {
       "source": "antaranews Jogja",
-      "title": "Pentingnya nutrisi tepat untuk bangun fondasi imunitas sejak dini"
+      "title": "Arsenal ditahan Newcastle 2-2"
     }
   ]
 }
