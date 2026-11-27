@@ -1,9 +1,13 @@
 {
-  "updated": "2026-11-27T00:20:52.860854Z",
+  "updated": "2026-11-27T09:15:09.035771Z",
   "feeds": [
     {
+      "source": "detik.com",
+      "title": "Polisi Gali Motif Pria Bunuh ABG Berseragam SMA di Penginapan Jaksel"
+    },
+    {
       "source": "antaranews.com",
-      "title": "Juventus menang meyakinkan 4-1 atas Omonia Nicosia"
+      "title": "Shin Tae-yong sambut baik persaingan ketat di papan atas klasemen"
     },
     {
       "source": "tempo.co",
@@ -11,19 +15,19 @@
     },
     {
       "source": "republika.co.id",
-      "title": "Sergio Farias dan Para Pelatih Tersingkat di Super League 2026-2027"
+      "title": "Danantara Setor Rp 567,2 Triliun ke Negara, PMN BUMN Turun 86,6 Persen"
     },
     {
       "source": "viva.co",
-      "title": "2 Pelajar di Cirebon jadi Korban Penculikan dan Perundungan! Tersangka Didominasi Anak Dibawah Umur"
+      "title": "Alasan Laga Persita Vs Persib di BIS Digelar Tanpa Bobotoh, Begini Komentar Bos Persib"
     },
     {
       "source": "jpnn.com",
-      "title": "Temui IEA, Satya Hangga Dorong Ketahanan Energi Indonesia"
+      "title": "Pemkot Banjarmasin Optimistis Perda Perizinan Berusaha Bisa Dorong Investasi"
     },
     {
       "source": "times.co.id",
-      "title": "Hasil Europa League: Bournemouth Perpanjang Rekor Kemenangan, AC Milan dan Juventus Bangkit untuk Menang"
+      "title": "Guru Besar UIN Malang Ajak Perempuan Sadari Hak Istri dalam Kajian DWP"
     },
     {
       "source": "BBC Indonesia",
@@ -31,7 +35,7 @@
     },
     {
       "source": "antaranews Jogja",
-      "title": "Indonesia sambut dukungan AS dalam pengembangan nuklir nasional"
+      "title": "Ka Bakom: Presiden nyatakan perang lawan narkoba demi"
     }
   ]
 }
