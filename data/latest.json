@@ -1,25 +1,33 @@
 {
-  "updated": "2026-11-28T02:22:19.051139Z",
+  "updated": "2026-11-28T11:04:54.441998Z",
   "feeds": [
     {
+      "source": "detik.com",
+      "title": "Menkes Doakan Prabowo Berumur hingga 100 Tahun, Sugiono 90 Tahun"
+    },
+    {
       "source": "antaranews.com",
-      "title": "OJK: Tidak ada kekhawatiran terhadap kondisi likuiditas perbankan"
+      "title": "Prabowo: Saya dulu tentara, tapi sebetulnya takut sama dokter"
+    },
+    {
+      "source": "tempo.co",
+      "title": "Grup Barito Pacific Perkuat Diversifikasi dan Integrasi Aset, Dorong Hilirisasi Nasional"
     },
     {
       "source": "republika.co.id",
-      "title": "Jamkrindo Catat Penjaminan Rp299 Triliun, Jangkau 3,26 Juta UMKM"
+      "title": "PSSI Gelar Kongres Biasa secara Daring, Pemilihan Pengurus Baru Maju ke Januari 2027"
     },
     {
       "source": "viva.co",
-      "title": "HUT Persija Dirayakan di Luar Jakarta, Rizky Ridho Lempar Sindiran: Mungkin Ini Normal bagi Kami"
+      "title": "Kata Doktif, Hubungannya Memanas dengan Dewi Perssik Gegara Fitri Salhuteru: Dikompor-komporin Sama Si Nepos!"
     },
     {
       "source": "jpnn.com",
-      "title": "Arema FC Sedang On Fire, Persebaya Justru Dibayangi Masalah Menjelang Derbi Jatim"
+      "title": "Pegawai Bank Jatim Diduga Pakai Uang Nasabah untuk Beli Vespa hingga Bayar Pinjol"
     },
     {
       "source": "times.co.id",
-      "title": "PT BNP Paribas Asset Management dan BCA Luncurkan BNP Paribas PUSAKA"
+      "title": "Kanada Perpanjang Pembatasan Imigrasi hingga Februari 2027 di Tengah Wabah Ebola"
     },
     {
       "source": "BBC Indonesia",
@@ -27,7 +35,7 @@
     },
     {
       "source": "antaranews Jogja",
-      "title": "Kementerian PKP jajaki KPR subsidi masyarakat berpenghasilan tanggung"
+      "title": "FH UGM datangi Polda DIY minta mahasiswa yang berkasus bisa ikut ujian"
     }
   ]
 }
